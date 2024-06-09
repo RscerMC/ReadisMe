@@ -9,8 +9,8 @@ I've also been now learning C++ This is mainly due for me wanting to get into ga
 I've dipped my hands a bit into Rust but am still learning it, though its on hold due to my C++ adventures.
 I've done many projects using Javascript/Typescript like coding Discord bots, Discord bot lists, my own websites, or websites for others. I've used frameworks like React, Next.js and Astro.
 
-## Achievements
+## 🥇 Achievements
 2x Computer science award's (Secondary School)
 
-## Links
+## 🔗 Links
 Wow, so empty. To be filled soon!
