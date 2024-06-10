@@ -8,7 +8,7 @@ I've dipped my hands a bit into Rust but am still learning it, though its on hol
 I've done many projects using Javascript/Typescript like coding Discord bots, Discord bot lists, my own websites, or websites for others. I've used frameworks like React, Next.js and Astro.
 
 ## 🥇 Achievements
-2x Computer science award's (Secondary School)
+2x Computer science award's (Secondary School).
 
 ## 💻 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
