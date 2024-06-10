@@ -1,6 +1,4 @@
 # Rscer (Aleks)
-
-## 👀 Me
 I was born in Latvia and now live in the UK. I can speak English and Russian though not Latvian suprisngly haha. I've been programming ever since I was 12, first made a website by copying a html tutorial and now coding plugins in Minecraft or coding Discord bots. I am now 16 and have decided to make programming my career, even carrying on the computer science course in college when I finish secondary school this summer (2024).
 
 ## 💻 Programmer
@@ -11,6 +9,11 @@ I've done many projects using Javascript/Typescript like coding Discord bots, Di
 
 ## 🥇 Achievements
 2x Computer science award's (Secondary School)
+
+## 💻 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RscerMC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔗 Links
 Wow, so empty. To be filled soon!
