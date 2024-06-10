@@ -12,7 +12,6 @@ I've done many projects using Javascript/Typescript like coding Discord bots, Di
 
 ## 💻 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RscerMC&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔗 Links
