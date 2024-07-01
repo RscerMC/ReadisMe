@@ -9,6 +9,8 @@ I've done many projects using Javascript/Typescript like coding Discord bots, Di
 
 ## 🥇 Achievements
 2x Computer science award's (Secondary School).
+Year 10 - Basic Award from teacher
+Year 11 - Award Sponsered by TECHNICOM
 
 ## 💻 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
