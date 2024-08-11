@@ -1,4 +1,4 @@
-# Rscer (Aleks)
+# Aleks
 I was born in Latvia and now live in the UK. I can speak English and Russian though not Latvian suprisngly haha. I've been programming ever since I was 12, first made a website by copying a html tutorial and now coding plugins in Minecraft or coding Discord bots. I am now 16 and have decided to make programming my career, even carrying on the computer science course in college.
 
 ## 💻 Programmer
