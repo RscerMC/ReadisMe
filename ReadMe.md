@@ -13,8 +13,8 @@ I've done many projects using Javascript/Typescript like coding Discord bots, Di
 - Year 11 - Award Sponsered by TECHNICOM
 
 ## 💻 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RscerMC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aleksvolkovs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksvolkovsC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔗 Links
 Wow, so empty. To be filled soon!
